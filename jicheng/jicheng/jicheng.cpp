@@ -73,3 +73,4 @@ int main()
 	of1.display();
 	return 0;
 }
+//后构造的先输出！！
